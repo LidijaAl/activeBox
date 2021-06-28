@@ -7,7 +7,7 @@
 
 
 ## Overview
-   This is a ActiveBox project written in HTML, CSS, and Javascript.
+   This is the ActiveBox project written in HTML, CSS, and Javascript.
 
 ## Screenshot
 
