@@ -754,3 +754,10 @@ div.txt {
     margin-bottom: 10px;
   }
 }
+@media (max-width: 480px) {
+  .head {
+    padding-top: 0;
+    width: 80%;
+    margin: auto;
+  }
+}
